@@ -1,0 +1,1 @@
+call java -jar target/dev-0.0.1-SNAPSHOT.jar
